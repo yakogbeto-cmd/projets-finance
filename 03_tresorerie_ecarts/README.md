@@ -22,7 +22,7 @@ Bonus VBA : ouvrir Excel → `Alt+F11` → importer `macro_ecarts.bas` → lance
 - **Excel avancé** (formules chaînées, mise en forme) + **VBA** (macro d'automatisation).
 - **Python** appliqué à la génération de reporting (openpyxl).
 
-## Ce que tu peux dire en entretien (simple)
+## (simple)
 > « J'ai construit un outil qui génère un tableau de bord de trésorerie et une analyse d'écarts budget/réalisé sous Excel, avec des formules vivantes et une macro VBA qui met en couleur les écarts favorables et défavorables. Ça correspond directement à ce que fait un contrôleur de gestion ou un trésorier au quotidien. »
 
 ## Puce de CV
