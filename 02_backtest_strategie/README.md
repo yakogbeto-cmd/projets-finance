@@ -23,7 +23,7 @@ Sortie : `performance.png`.
 - **Quantitatif** : manipulation de séries temporelles, rendements, annualisation (ton socle proba/stats CPGE).
 - **Honnêteté analytique** : pas de « triche » sur l'information (signal décalé d'un jour), lecture nuancée des résultats.
 
-## Ce que tu peux dire en entretien (simple)
+## (simple)
 > « J'ai backtesté une stratégie de tendance (croisement de moyennes mobiles) et je l'ai évaluée avec les mesures de risque classiques : Sharpe, volatilité, drawdown maximal. Sur un scénario de krach simulé, la stratégie a réduit le drawdown de moitié par rapport à une détention passive — ce qui illustre son intérêt : protéger le capital plus que battre le marché. »
 
 ## Puce de CV
