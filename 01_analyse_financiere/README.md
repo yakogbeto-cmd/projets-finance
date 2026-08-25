@@ -21,7 +21,7 @@ Sorties : `fiche_analyse.xlsx` et `ratios.png`.
 - **Python** : pandas, matplotlib, openpyxl, gestion d'une source de données externe.
 - **Rigueur** : la décomposition DuPont se réconcilie exactement avec le ROE calculé.
 
-## Ce que tu peux dire en entretien (simple)
+## (simple)
 > « J'ai codé un outil qui automatise l'analyse financière d'une société : il calcule les ratios de liquidité, d'endettement et de rentabilité, et décompose le ROE façon DuPont pour voir si la rentabilité vient de la marge, de la rotation de l'actif ou de l'effet de levier. Il peut tourner sur les vraies données d'une entreprise cotée. »
 
 ## Puce de CV
